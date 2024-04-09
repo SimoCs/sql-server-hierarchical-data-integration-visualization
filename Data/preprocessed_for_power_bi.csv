@@ -1,0 +1,30 @@
+product_category,product_preference,preference_count,high_preference
+Beauty,Haircare,10,True
+Beauty,Makeup,10,True
+Beauty,Perfume,8,True
+Beauty,Skincare,10,True
+Clothing,Dresses,10,True
+Clothing,Hoodies,8,True
+Clothing,Jeans,2,False
+Clothing,Shoes,10,True
+Clothing,Suits,8,True
+Clothing,T-Shirts,2,False
+Electronics,Headphones,10,True
+Electronics,Laptops,2,False
+Electronics,Smartphones,2,False
+Electronics,Smartwatches,10,True
+Electronics,Speakers,8,True
+Electronics,Tablets,10,True
+Home & Kitchen,Appliances,2,False
+Home & Kitchen,Bedding,8,True
+Home & Kitchen,Furniture,2,False
+Home & Kitchen,Home Decor,2,False
+Home & Kitchen,Kitchen Appliances,10,True
+Sports & Outdoors,Camping Equipment,10,True
+Sports & Outdoors,Cycling Accessories,8,True
+Sports & Outdoors,Fitness Apparel,8,True
+Sports & Outdoors,Fitness Equipment,2,False
+Sports & Outdoors,Outdoor Gear,10,True
+Toys & Games,Action Figures,8,True
+Toys & Games,Board Games,2,False
+Toys & Games,Video Games,8,True
